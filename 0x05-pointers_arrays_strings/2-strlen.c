@@ -2,7 +2,7 @@
 /**
   * _strlen - returns the length of the string
   *@s : string
-  *Return : length
+  *Return(_strlen) : length
   */
 int _strlen(char s)
 {
@@ -14,4 +14,5 @@ int _strlen(char s)
 		s++;
 	}
 	return (longi);
+	return (0);
 }
