@@ -4,7 +4,7 @@
   *@s : string
   *Return(_strlen) : length
   */
-int _strlen(char s)
+void _strlen(char s)
 {
 	int longi = 0;
 
