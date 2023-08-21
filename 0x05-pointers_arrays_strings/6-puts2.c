@@ -26,3 +26,4 @@ void puts2(chat *str)
 		}
 	}
 	_putchar('\n')
+}
